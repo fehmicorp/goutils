@@ -1,4 +1,4 @@
-module github.com/fehmicorp/utils
+module github.com/fehmicorp/goutils
 
 go 1.26.3
 
